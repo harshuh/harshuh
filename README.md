@@ -9,7 +9,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwZnN6YTluZmFmNWN1ajh4MmdzYjh6a2l1cHphd2tkYXVzOGd5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XvVfKCncJIOY/giphy.gif" width="300" height="150" style="min-height: 150px;" />
 <img height="30%" width="50%" align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=harshuh&theme=darcula&hide_border=true&background=FFFFFF00">
  
-<img height="auto" width="4000" align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,html,php&exclude_repo=Pacman-AI">
+<img height="30%" width="35%" align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,html,php&exclude_repo=Pacman-AI">
 </p>
 
 
