@@ -6,13 +6,10 @@
 
 <br/>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwZnN6YTluZmFmNWN1ajh4MmdzYjh6a2l1cHphd2tkYXVzOGd5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XvVfKCncJIOY/giphy.gif" width="200" height="200" style="min-height: 200px;" />
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=harshuh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=harshuh&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
+
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=currently+learning+Java+script" />
